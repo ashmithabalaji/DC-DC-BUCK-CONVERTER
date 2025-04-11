@@ -1,0 +1,42 @@
+Front (top side) placement file: 'C:\Users\ambil\Desktop\buck converter\buck converter-top-pos.csv'.
+Info: Component count: 9.
+Back (bottom side) placement file: 'C:\Users\ambil\Desktop\buck converter\buck converter-bottom-pos.csv'.
+Info: Component count: 0.
+Info: Full component count: 9.
+Info: Done.
+Front (top side) placement file: 'C:\Users\ambil\Desktop\buck converter\buck converter-top-pos.csv'.
+Info: Component count: 9.
+Back (bottom side) placement file: 'C:\Users\ambil\Desktop\buck converter\buck converter-bottom-pos.csv'.
+Info: Component count: 0.
+Info: Full component count: 9.
+Info: Done.
+Front (top side) placement file: 'C:\Users\ambil\Desktop\buck converter\buck converter-top-pos.csv'.
+Info: Component count: 9.
+Back (bottom side) placement file: 'C:\Users\ambil\Desktop\buck converter\buck converter-bottom-pos.csv'.
+Info: Component count: 0.
+Info: Full component count: 9.
+Info: Done.
+Front (top side) placement file: 'C:\Users\ambil\Desktop\buck converter\buck converter-top-pos.csv'.
+Info: Component count: 9.
+Back (bottom side) placement file: 'C:\Users\ambil\Desktop\buck converter\buck converter-bottom-pos.csv'.
+Info: Component count: 0.
+Info: Full component count: 9.
+Info: Done.
+Front (top side) placement file: 'C:\Users\ambil\Desktop\buck converter\buck converter-top-pos.csv'.
+Info: Component count: 9.
+Back (bottom side) placement file: 'C:\Users\ambil\Desktop\buck converter\buck converter-bottom-pos.csv'.
+Info: Component count: 0.
+Info: Full component count: 9.
+Info: Done.
+Front (top side) placement file: 'C:\Users\ambil\Desktop\buck converter\buck converter-pnp_top.gbr'.
+Info: Component count: 9.
+Back (bottom side) placement file: 'C:\Users\ambil\Desktop\buck converter\buck converter-pnp_bottom.gbr'.
+Info: Component count: 0.
+Info: Full component count: 9.
+Info: Done.
+Front (top side) placement file: 'C:\Users\ambil\Desktop\buck converter\buck converter-top-pos.csv'.
+Info: Component count: 9.
+Back (bottom side) placement file: 'C:\Users\ambil\Desktop\buck converter\buck converter-bottom-pos.csv'.
+Info: Component count: 0.
+Info: Full component count: 9.
+Info: Done.

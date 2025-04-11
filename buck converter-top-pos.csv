@@ -1,0 +1,10 @@
+Ref,Val,Package,PosX,PosY,Rot,Side
+"C1","C","CP_Radial_D5.0mm_P2.00mm",133.000000,-70.000000,180.000000,top
+"C2","C","CP_Radial_D5.0mm_P2.00mm",163.500000,-65.000000,0.000000,top
+"C3","C","CP_Radial_D5.0mm_P2.00mm",138.500000,-90.500000,0.000000,top
+"D1","D","D_DO-201AD_P15.24mm_Horizontal",113.000000,-109.120000,90.000000,top
+"D2","SS34","D_SMA",162.500000,-126.000000,0.000000,top
+"J1","Screw_Terminal_01x02","TerminalBlock_bornier-2_P5.08mm",81.420000,-95.000000,0.000000,top
+"J2","Screw_Terminal_01x02","TerminalBlock_bornier-2_P5.08mm",231.920000,-97.500000,0.000000,top
+"L1","L","L_Radial_D10.0mm_P5.00mm_Fastron_07M",195.000000,-74.500000,0.000000,top
+"U1","LM2596S-5","TO-263-5_TabPin3",161.075000,-95.275000,90.000000,top
